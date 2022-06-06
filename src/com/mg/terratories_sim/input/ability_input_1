@@ -1,0 +1,3 @@
+elem1,increaseBarrier,2,3,Barrier,6,1
+elem2,increaseHit,2,3,Hit,6,1
+elem1,stun,2,4,Stun,6,0

@@ -1,0 +1,4 @@
+elem1,increaseBarrier,2,4,Barrier,2,1
+elem2,increaseHit,2,4,Hit,2,1
+elem1,increaseToughness,2,4,Toughness,2,1
+elem2,increaseStrength,2,4,Strength,2,1
